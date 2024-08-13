@@ -13,6 +13,18 @@ import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
+import ruby from "./assets/techstack/ruby.png";
+import rails from "./assets/techstack/rails.png";
+import postgresql from "./assets/techstack/postgresql.png";
+import redis from "./assets/techstack/redis.png";
+import typescript from "./assets/techstack/typescript.png";
+import docker from "./assets/techstack/docker.png";
+import kubernetes from "./assets/techstack/kubernets.png";
+import gitlab from "./assets/techstack/gitlab.png";
+import jenkins from "./assets/techstack/jenkins.png";
+import aws from "./assets/techstack/aws.png";
+import nginx from "./assets/techstack/nginx.png";
+
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -78,7 +90,7 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Trainee/Internship",
+    Position: "Ruby on Rails Full Stack Trainee/Internship",
     Company: "DCT Academy",
     Location: "Bangalore",
     Type: "Full Time",
@@ -105,6 +117,17 @@ export const techStackDetails = {
   npm: npm,
   git: git,
   github: github,
+  ruby: ruby,
+  rails: rails,
+  postgresql: postgresql,
+  redis: redis,
+  typescript: typescript,
+  docker: docker,
+  kubernetes: kubernetes,
+  gitlab: gitlab,
+  jenkins: jenkins,
+  aws: aws,
+  nginx: nginx,
 };
 
 // Enter your Project Details here

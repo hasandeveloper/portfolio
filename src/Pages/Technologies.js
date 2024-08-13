@@ -13,6 +13,17 @@ function Technologies() {
     github,
     npm,
     postman,
+    ruby,
+    rails,
+    postgresql,
+    redis,
+    typescript,
+    docker,
+    kubernetes,
+    gitlab,
+    jenkins,
+    aws,
+    nginx,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -28,9 +39,14 @@ function Technologies() {
         <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
+        <img src={typescript} title="Typescript" alt="" />
         <img src={react} title="React" alt="" />
         <img src={redux} title="Redux" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
+        <img src={ruby} title="Ruby" alt="" />
+        <img src={rails} title="Rails" alt="" />
+        <img src={postgresql} title="Postgresql" alt="" />
+        <img src={redis} title="Redis" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -42,6 +58,12 @@ function Technologies() {
         <img src={github} title="Github" alt="Github" />
         <img src={npm} title="NPM" alt="NPM" />
         <img src={postman} title="Postman" alt="Postman" />
+        <img src={docker} title="Docker" alt="Docker" />
+        <img src={kubernetes} title="Kubernetes" alt="Kubernetes" />
+        <img src={gitlab} title="Gitlab" alt="Gitlab" />
+        <img src={jenkins} title="jenkins" alt="Jenkins" />
+        <img src={aws} title="AWS" alt="AWS" />
+        <img src={nginx} title="Nginx" alt="Nginx" />
       </section>
     </main>
   );
