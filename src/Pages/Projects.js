@@ -19,7 +19,8 @@ function Projects() {
                   description={description}
                   techstack={techstack}
                   previewLink={previewLink}
-                  githubLink={githubLink}
+                  // commented github link for now
+                  // githubLink={githubLink}
                 />
               )
             )

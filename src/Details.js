@@ -133,22 +133,24 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Zendesk support",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `I involved working on the frontend using ReactJS enhancing features for various modules
+of Zendesk's Admin Centre Framework (ACF), each of which is maintained in separate repositories. Specifically, I have worked on the Custom Tickets Statuses (CTS) module. This module is integrated into the ACF via a React Iframe. also Contributed to Zendesk (Classic) Backend Ruby on Rails, one of the world's largest repositories on GitHub, by enhancing the Service Level Agreement (SLA) feature. My work primarily focused on developing auditing logs functionality for displaying condition definitions and transforming IDs into more human-readable values by having Arturo flagging. Successfully deployed these improvements to production.`,
+    techstack: "ReactJS, TypeScript, Ruby on Rails",
+    previewLink: "https://www.zendesk.com/in/",
+    // githubLink: "https://github.com/zendesk/classi",
   },
   {
-    title: "Project title 2",
+    title: "HealtheRegistries Population Health Records",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Spearheaded the deprecation of numerous proprietary Cerner gems and facilitated their
+integration with various microservices, enhancing the application features, Addressed CVE vulnerabilities and resolved issues within the application and its dependent
+Java and Ruby components, Proactively involved in debugging and problem resolution for persistent production
+incidents across both Java and Ruby stacks, Participated in quarterly rotations as a Production Support Engineer, handling application support and operations.`,
+    techstack: "Ruby on Rails, Ruby, Java, splunk, NewRelic",
+    previewLink: "https://vimeo.com/682679104",
+    // githubLink: "https://github.com",
   },
   {
     title: "Project title 3",
