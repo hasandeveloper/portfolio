@@ -153,40 +153,42 @@ incidents across both Java and Ruby stacks, Participated in quarterly rotations 
     // githubLink: "https://github.com",
   },
   {
-    title: "Project title 3",
+    title: "Shemaroo me",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Engineered a 'Customer Care' web application from scratch using Ruby on Rails backend and ReactJS for Frontend, provisioned on EC2 and deployed via Docker. The application polls data from the main app shemaroo me via endpoints using cron jobs, specifically focusing on failed payment data related to subscriptions Developed a distributed Payments module Service for the OTT platform using Rails 6. The module was provisioned on a private subnet and deployed using Docker for seamless integration and operational efficiency and seamless integration with shemaroo me web app.`,
+    techstack: "HTML/CSS, JavaScript, ReactJS, Ruby on Rails",
+    previewLink: "https://www.shemaroome.com/",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 4",
+    title: "Low Inventory Notification (Shopify Public App)",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `I built this Shopify Public application as an invidividual contributor from scratch and published in shopify app store `,
+    techstack: "HTML/CSS, JavaScript, Bootstrap, Ruby on Rails",
+    previewLink: "https://apps.shopify.com/low-inventory-notifications",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 5",
+    title: "Shipment",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Engineered a Ruby on Rails backend and ReactJS for Frontend Shopify application
+facilitating order synchronization using webhooks, thereby achieving successful order
+fulfilling and shipping from multiple warehouses.`,
+    techstack: "HTML/CSS, JavaScript, ReactJS, Bootstrap, Ruby on Rails",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
   {
-    title: "Project title 6",
+    title: "Clinsyte",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Streamlined the Clinsyte healthcare project that transitioned from Rails 4 to Rails 6, refining
+legacy test cases and fixing bugs.
+• Transitioned the Clinsyte project presentation layer from Rails ERB views to ReactJS
+Frontend, spearheading end-to-end feature development and deployment via Docker to
+AWS EC2.`,
+    techstack: "Ruby on Rails, ReactJS, HTML/CSS, JavaScript",
+    // previewLink: "https://google.com",
+    // githubLink: "https://github.com",
   },
 ];
 
