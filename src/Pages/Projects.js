@@ -1,6 +1,4 @@
 import React from "react";
-import Project from "../Components/Project";
-import { projectDetails } from "../Details";
 
 function Projects() {
   return (
