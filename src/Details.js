@@ -3,27 +3,8 @@
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Tech stack images
-import html from "./assets/techstack/html.png";
-import css from "./assets/techstack/css.png";
-import js from "./assets/techstack/js.png";
-import react from "./assets/techstack/react.png";
-import redux from "./assets/techstack/redux.png";
-import bootstrap from "./assets/techstack/bootstrap.png";
-import github from "./assets/techstack/github.png";
-import git from "./assets/techstack/git.png";
-import npm from "./assets/techstack/npm.png";
-import postman from "./assets/techstack/postman.png";
-import ruby from "./assets/techstack/ruby.png";
-import rails from "./assets/techstack/rails.png";
-import postgresql from "./assets/techstack/postgresql.png";
-import redis from "./assets/techstack/redis.png";
-import typescript from "./assets/techstack/typescript.png";
-import docker from "./assets/techstack/docker.png";
-import kubernetes from "./assets/techstack/kubernets.png";
-import gitlab from "./assets/techstack/gitlab.png";
-import jenkins from "./assets/techstack/jenkins.png";
-import aws from "./assets/techstack/aws.png";
-import nginx from "./assets/techstack/nginx.png";
+import acad from "./assets/techstack/a-cad.png"
+import dx from "./assets/techstack/dx.webp"
 
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
@@ -35,99 +16,50 @@ import projectImage6 from "./assets/projects/project6.jpg";
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Hasan Ali CN",
-  tagline: "I build things for web",
+  name: "Syed Ibrahim",
+  tagline: "Powering the Future with Precision and Expertise",
   img: profile,
-  about: `Full Stack Developer with expertise in Javascript technologies and Ruby on Rails, having 6.6 years of experience in
-web application development.`,
+  about: `I am a licensed electrical engineer with a B-Tech in Electrical and Electronics Engineering and a Master's in Power and Energy Systems, graduating with first-class distinction. Over the past five years, I have specialized in securing power sanctions for residential and commercial projects, as well as executing complex installations such as transformers with RMUs, underground cabling, and connecting to government main lines of 11kV and higher voltage systems. I initially obtained a Grade A Supervisor License (No: 1GR126**BNG) along with a Grade A Electrical Contractor License (No: 1CL1291**BNG), enabling me to work on projects up to 33kVA. Based on my experience, I was upgraded to a Super Grade License (No: SGL1760**BNG), granted by the Government of Karnataka, India. This license authorizes me to work on substations and high-voltage projects of any capacity, including 66kV, 132kV, and beyond..`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/in/hasandeveloper",
-  github: "https://github.com/hasandeveloper"
+  linkdein: "https://www.linkedin.com/in/syed-ibrahim-0b8a32161/"
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Senior Software Engineer",
-    Company: `Watermark India PVT LTD`,
-    Location: "Punjab",
+    Position: "Project Manager",
+    Company: `KPN Electrical Enterprises`,
+    Location: "Bangalore",
     Type: "Full Time",
-    Duration: "July 2024 - Present",
-  },
-  {
-    Position: "Engineering Lead",
-    Company: `Persistent Systems PVT LTD`,
-    Location: "Pune",
-    Type: "Full Time",
-    Duration: "July 2023 - July 2024",
-  },
-  {
-    Position: "Software Engineer III",
-    Company: `Oracle Cerner India PVT LTD`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Jan 2022 - July 2023",
-  },
-  {
-    Position: "Software Engineer",
-    Company: `Saranyu Technologies PVT LTD`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "May 2021 - Jan 2022",
-  },
-  {
-    Position: "Software Engineer",
-    Company: `Kloc Technologies PVT LTD`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "March 2018 - May 2021",
+    Duration: "Jan 2020 - Feb 2024",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Ruby on Rails Full Stack Trainee/Internship",
-    Company: "DCT Academy",
+    Position: "MTech, Power and Energy System",
+    Company: `REVA University Master of Technology`,
     Location: "Bangalore",
     Type: "Full Time",
-    Duration: "Oct 2017 - March 2018",
+    Duration: "Jan 2021 - Nov 2022",
   },
   {
-    Position: "Bachelor of Computer Applications",
-    Company: `SRS Degree College`,
-    Location: "Chitradurga",
+    Position: "BTech, Electrical and Electronics Engineering",
+    Company: `REVA University Bachelor of Technology`,
+    Location: "Bangalore",
     Type: "Full Time",
-    Duration: "July 2014 - July 2017",
+    Duration: "May 2015 - April 2019",
   },
 ];
 
 // Tech Stack and Tools
 export const techStackDetails = {
-  html: html,
-  css: css,
-  js: js,
-  react: react,
-  redux: redux,
-  bootstrap: bootstrap,
-  postman: postman,
-  npm: npm,
-  git: git,
-  github: github,
-  ruby: ruby,
-  rails: rails,
-  postgresql: postgresql,
-  redis: redis,
-  typescript: typescript,
-  docker: docker,
-  kubernetes: kubernetes,
-  gitlab: gitlab,
-  jenkins: jenkins,
-  aws: aws,
-  nginx: nginx,
+  acad: acad,
+  dx: dx,
 };
 
 // Enter your Project Details here
@@ -194,6 +126,6 @@ AWS EC2.`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hasanfarhanascii@gmail.com",
-  phone: "+91 9448804242",
+  email: "Syed4gsi527@gmail.com",
+  phone: "+91 97415 53520",
 };

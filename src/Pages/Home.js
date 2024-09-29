@@ -78,8 +78,8 @@ function Home() {
           {tagline}
         </h2>
       </div>
-      <div className="mt-5 md:mt-0">
-        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Hasan Ali" style={{borderRadius: "10rem"}}/>
+      <div class="mt-5 md:mt-0" style={{width: "676px"}}>
+        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Hasan Ali" style={{borderRadius: "10rem", width: "90%"}}/>
       </div>
     </main>
   );
